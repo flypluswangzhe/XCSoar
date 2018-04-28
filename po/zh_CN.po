@@ -151,7 +151,7 @@ msgstr ""
 #: src/Task/TypeStrings.cpp:78
 #, no-c-format
 msgid "A cylinder.  Exit area to start."
-msgstr ""
+msgstr "出发离开圆柱区域。"
 
 #: src/Task/TypeStrings.cpp:79
 #, no-c-format
@@ -216,7 +216,7 @@ msgstr ""
 #: src/Task/TypeStrings.cpp:94
 #, no-c-format
 msgid "Enter cylinder to finish."
-msgstr ""
+msgstr "进入圆柱完成"
 
 #: src/Task/TypeStrings.cpp:95
 #, no-c-format
@@ -244,7 +244,7 @@ msgstr ""
 #: src/Task/TypeStrings.cpp:112
 #, no-c-format
 msgid "FAI start quadrant"
-msgstr ""
+msgstr "FAI四分之一圆开始"
 
 #: src/Task/TypeStrings.cpp:113
 #, no-c-format
@@ -254,12 +254,12 @@ msgstr "起始线"
 #: src/Task/TypeStrings.cpp:114
 #, no-c-format
 msgid "Start cylinder"
-msgstr ""
+msgstr "开始圆柱"
 
 #: src/Task/TypeStrings.cpp:115 src/Dialogs/Task/dlgTaskHelpers.cpp:181
 #, no-c-format
 msgid "FAI quadrant"
-msgstr ""
+msgstr "FAI四分之一圆"
 
 #: src/Task/TypeStrings.cpp:116
 #, no-c-format
@@ -334,61 +334,61 @@ msgstr ""
 #: src/Task/ValidationErrorStrings.cpp:32
 #, no-c-format
 msgid "No valid start"
-msgstr ""
+msgstr "无效开始"
 
 #: src/Task/ValidationErrorStrings.cpp:33
 #, no-c-format
 msgid "No valid finish"
-msgstr ""
+msgstr "无效结束"
 
 #: src/Task/ValidationErrorStrings.cpp:34
 #, no-c-format
 msgid "Task not closed"
-msgstr ""
+msgstr "任务没有关闭"
 
 #: src/Task/ValidationErrorStrings.cpp:35
 #, no-c-format
 msgid "All turnpoints not the same type"
-msgstr ""
+msgstr "所有转弯点不是同一类型"
 
 #: src/Task/ValidationErrorStrings.cpp:36
 #, no-c-format
 msgid "Incorrect number of turnpoints"
-msgstr ""
+msgstr "不正确的转弯点数量"
 
 #: src/Task/ValidationErrorStrings.cpp:37
 #, no-c-format
 msgid "Too many turnpoints"
-msgstr ""
+msgstr "转弯点太多"
 
 #: src/Task/ValidationErrorStrings.cpp:38
 #, no-c-format
 msgid "Not enough turnpoints"
-msgstr ""
+msgstr "没有足够多转弯点"
 
 #: src/Task/ValidationErrorStrings.cpp:39
 #, no-c-format
 msgid "Turnpoints not unique"
-msgstr ""
+msgstr "转弯点不唯一"
 
 #: src/Task/ValidationErrorStrings.cpp:40
 #, no-c-format
 msgid "Empty task"
-msgstr ""
+msgstr "空任务"
 
 #: src/Task/ValidationErrorStrings.cpp:41
 #, no-c-format
 msgid "non-FAI turn points"
-msgstr ""
+msgstr "非FAI转弯点"
 
 #: src/Task/ValidationErrorStrings.cpp:42
 #, no-c-format
 msgid "non-MAT turn points"
-msgstr ""
+msgstr "非MAT转弯点"
 
 #: src/Airspace/AirspaceGlue.cpp:84
 msgid "Loading Airspace File..."
-msgstr ""
+msgstr "加载空域文件"
 
 #: src/Airspace/AirspaceParser.cpp:277
 msgid "Parse Error at Line"
@@ -396,39 +396,39 @@ msgstr ""
 
 #: src/Airspace/AirspaceParser.cpp:892
 msgid "Unknown airspace filetype"
-msgstr ""
+msgstr "未知空域类型文件"
 
 #: src/Computer/ConditionMonitor/ConditionMonitorAATTime.cpp:51
 msgid "Expect early task arrival"
-msgstr ""
+msgstr "预期任务提前抵达"
 
 #: src/Computer/ConditionMonitor/ConditionMonitorSunset.cpp:65
 msgid "Expect arrival past sunset"
-msgstr ""
+msgstr "预期日落抵达"
 
 #: src/Computer/ConditionMonitor/ConditionMonitorWind.cpp:54
 msgid "Significant wind change"
-msgstr ""
+msgstr "风向变化显著"
 
 #: src/FLARM/Error.cpp:29
 #, no-c-format
 msgid "No error"
-msgstr ""
+msgstr "没有错误"
 
 #: src/FLARM/Error.cpp:30
 #, no-c-format
 msgid "Information"
-msgstr ""
+msgstr "信息"
 
 #: src/FLARM/Error.cpp:31
 #, no-c-format
 msgid "Reduced functionality"
-msgstr ""
+msgstr "简化功能"
 
 #: src/FLARM/Error.cpp:32
 #, no-c-format
 msgid "Fatal problem"
-msgstr ""
+msgstr "致命问题"
 
 #. valid but unknown number of sats
 #: src/FLARM/Error.cpp:41 src/FLARM/Error.cpp:71
@@ -441,17 +441,17 @@ msgstr ""
 #: src/Dialogs/Task/dlgTaskHelpers.cpp:60
 #, no-c-format
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 #: src/FLARM/Error.cpp:48
 #, no-c-format
 msgid "Firmware timeout"
-msgstr ""
+msgstr "固件超时"
 
 #: src/FLARM/Error.cpp:49
 #, no-c-format
 msgid "Power"
-msgstr ""
+msgstr "电量"
 
 #: src/FLARM/Error.cpp:50
 #, no-c-format
@@ -466,12 +466,12 @@ msgstr "GPS配置"
 #: src/FLARM/Error.cpp:52
 #, no-c-format
 msgid "RF communication"
-msgstr ""
+msgstr "射频通讯"
 
 #: src/FLARM/Error.cpp:53
 #, no-c-format
 msgid "Communication"
-msgstr ""
+msgstr "通讯"
 
 #: src/FLARM/Error.cpp:54
 #, no-c-format
@@ -481,22 +481,22 @@ msgstr "闪存"
 #: src/FLARM/Error.cpp:55
 #, no-c-format
 msgid "Pressure sensor"
-msgstr ""
+msgstr "压力传感器"
 
 #: src/FLARM/Error.cpp:56 src/Dialogs/Device/ManageFlarmDialog.cpp:78
 #, no-c-format
 msgid "Obstacle database"
-msgstr ""
+msgstr "数据库障碍"
 
 #: src/FLARM/Error.cpp:57
 #, no-c-format
 msgid "Flight recorder"
-msgstr ""
+msgstr "飞行记录仪"
 
 #: src/FLARM/Error.cpp:59
 #, no-c-format
 msgid "Transponder receiver"
-msgstr ""
+msgstr "应答器接收机"
 
 #: src/FLARM/Error.cpp:60
 #, no-c-format
@@ -505,19 +505,19 @@ msgstr "其他"
 
 #: src/Logger/Logger.cpp:112 src/Dialogs/Device/ManageCAI302Dialog.cpp:69
 msgid "Start Logger"
-msgstr ""
+msgstr "启动记录器"
 
 #: src/Logger/Logger.cpp:119
 msgid "Logger inactive, insufficient storage!"
-msgstr ""
+msgstr "记录器不活动，存储不足！"
 
 #: src/Logger/Logger.cpp:120
 msgid "Logger Error"
-msgstr ""
+msgstr "记录器错误"
 
 #: src/Logger/Logger.cpp:148 src/Dialogs/Device/ManageCAI302Dialog.cpp:70
 msgid "Stop Logger"
-msgstr ""
+msgstr "停止记录器"
 
 #: src/Logger/ExternalLogger.cpp:84
 msgid "Declare task?"
@@ -526,55 +526,57 @@ msgstr ""
 #: src/Logger/ExternalLogger.cpp:93 src/Logger/ExternalLogger.cpp:132
 #: src/Dialogs/Task/Manager/TaskActionsPanel.cpp:96
 msgid "Declare task"
-msgstr ""
+msgstr "发布任务？"
 
 #: src/Logger/ExternalLogger.cpp:100
 msgid "Task declared!"
-msgstr ""
+msgstr "任务已发布！"
 
 #: src/Logger/ExternalLogger.cpp:105
 msgid ""
 "Error occured,\n"
 "Task NOT declared!"
 msgstr ""
+"发生错误,\n"
+"任务未发布!"
 
 #: src/Logger/ExternalLogger.cpp:131
 msgid "No logger connected"
-msgstr ""
+msgstr "记录器未连接"
 
 #: src/Logger/ExternalLogger.cpp:269
 msgid "Failed to download flight list."
-msgstr ""
+msgstr "下载飞行列表失败"
 
 #: src/Logger/ExternalLogger.cpp:270 src/Logger/ExternalLogger.cpp:281
 #: src/Logger/ExternalLogger.cpp:302 src/Logger/ExternalLogger.cpp:325
 msgid "Download flight"
-msgstr ""
+msgstr "下载飞行"
 
 #: src/Logger/ExternalLogger.cpp:280
 msgid "Logger is empty."
-msgstr ""
+msgstr "记录器空"
 
 #: src/Logger/ExternalLogger.cpp:301
 msgid "Failed to download flight."
-msgstr ""
+msgstr "下载飞行失败"
 
 #: src/Logger/ExternalLogger.cpp:324
 msgid "Do you want to download another flight?"
-msgstr ""
+msgstr "你想下载另一个飞行？"
 
 #: src/Waypoint/WaypointGlue.cpp:91
 #: src/Dialogs/Device/CAI302/WaypointUploader.cpp:37
 msgid "Loading Waypoints..."
-msgstr ""
+msgstr "加载航点中..."
 
 #: src/CrossSection/CrossSectionRenderer.cpp:67
 msgid "Not moving"
-msgstr ""
+msgstr "不移动"
 
 #: src/Gauge/ThermalAssistantRenderer.cpp:193
 msgid "Not Circling"
-msgstr ""
+msgstr "不盘转"
 
 #: src/Gauge/BigThermalAssistantWidget.cpp:70
 #: src/Gauge/BigTrafficWidget.cpp:884 src/Dialogs/FileManager.cpp:699
@@ -612,11 +614,11 @@ msgstr ""
 #: src/Dialogs/Weather/PCMetDialog.cpp:50
 #: src/Dialogs/Weather/NOAADetails.cpp:153
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: src/Gauge/FlarmTrafficWindow.cpp:241
 msgid "No Traffic"
-msgstr ""
+msgstr "没有交通"
 
 #: src/Gauge/BigTrafficWidget.cpp:306 src/Gauge/BigTrafficWidget.cpp:307
 #: src/InfoBoxes/Content/Factory.cpp:332 src/InfoBoxes/Content/Factory.cpp:333
@@ -627,7 +629,7 @@ msgstr ""
 #: src/Dialogs/Traffic/FlarmTrafficDetails.cpp:150
 #, no-c-format
 msgid "Vario"
-msgstr ""
+msgstr "高度计"
 
 #: src/Gauge/BigTrafficWidget.cpp:382 src/Renderer/MapItemListRenderer.cpp:77
 #: src/Renderer/MapItemListRenderer.cpp:83
@@ -644,7 +646,7 @@ msgstr ""
 #: src/Dialogs/Settings/Panels/UnitsConfigPanel.cpp:161
 #: src/Dialogs/Task/TargetDialog.cpp:432
 msgid "Distance"
-msgstr ""
+msgstr "距离"
 
 #: src/Gauge/BigTrafficWidget.cpp:425 src/Gauge/BigTrafficWidget.cpp:428
 msgid "Rel. Alt."
@@ -659,49 +661,49 @@ msgstr ""
 #: src/Dialogs/Weather/NOAAList.cpp:119
 #, no-c-format
 msgid "Details"
-msgstr ""
+msgstr "详细"
 
 #: src/Waypoint/WaypointDetailsReader.cpp:150
 msgid "Loading Airfield Details File..."
-msgstr ""
+msgstr "加载空域详细文件中..."
 
 #: src/Menu/ExpandMacros.cpp:83 src/Menu/ExpandMacros.cpp:116
 #: src/Menu/ExpandMacros.cpp:138
 msgid "Next Turnpoint"
-msgstr ""
+msgstr "下一个转弯点"
 
 #: src/Menu/ExpandMacros.cpp:87 src/Menu/ExpandMacros.cpp:124
 #: src/Menu/ExpandMacros.cpp:161
 msgid "Previous Turnpoint"
-msgstr ""
+msgstr "前一个转弯点"
 
 #: src/Menu/ExpandMacros.cpp:94
 msgid "Furthest Landpoint"
-msgstr ""
+msgstr "最远的着陆点"
 
 #: src/Menu/ExpandMacros.cpp:95
 msgid "Next Landpoint"
-msgstr ""
+msgstr "下一个着陆点"
 
 #: src/Menu/ExpandMacros.cpp:101
 msgid "Closest Landpoint"
-msgstr ""
+msgstr "最近的着陆点"
 
 #: src/Menu/ExpandMacros.cpp:102
 msgid "Previous Landpoint"
-msgstr ""
+msgstr "前一个着陆点"
 
 #: src/Menu/ExpandMacros.cpp:115 src/Menu/ExpandMacros.cpp:137
 msgid "Finish Turnpoint"
-msgstr ""
+msgstr "结束转弯点"
 
 #: src/Menu/ExpandMacros.cpp:119 src/Menu/ExpandMacros.cpp:156
 msgid "Next Startpoint"
-msgstr ""
+msgstr "下一个开始点"
 
 #: src/Menu/ExpandMacros.cpp:123 src/Menu/ExpandMacros.cpp:160
 msgid "Start Turnpoint"
-msgstr ""
+msgstr "开始转弯点"
 
 #: src/Menu/ExpandMacros.cpp:141
 msgid "Arm start"
@@ -736,6 +738,8 @@ msgid ""
 "Abort\n"
 "Start"
 msgstr ""
+"终止\n"
+"开始"
 
 #: src/Menu/ExpandMacros.cpp:187
 msgid ""
@@ -748,6 +752,8 @@ msgid ""
 "Abort\n"
 "Turn"
 msgstr ""
+"终止\n"
+"转弯"
 
 #: src/Menu/ExpandMacros.cpp:193
 msgid ""
@@ -758,12 +764,12 @@ msgstr ""
 #: src/Menu/ExpandMacros.cpp:202 src/Menu/ExpandMacros.cpp:206
 #: src/Dialogs/Device/PortMonitor.cpp:175
 msgid "Resume"
-msgstr ""
+msgstr "摘要"
 
 #: src/Menu/ExpandMacros.cpp:203 src/Menu/ExpandMacros.cpp:207
 #: src/Dialogs/Message.cpp:128
 msgid "Abort"
-msgstr ""
+msgstr "终止"
 
 #: src/Menu/ExpandMacros.cpp:227 src/Menu/ExpandMacros.cpp:359
 #: src/Menu/ExpandMacros.cpp:380 src/Menu/ExpandMacros.cpp:430
@@ -771,7 +777,7 @@ msgstr ""
 #: src/Dialogs/Settings/WindSettingsPanel.cpp:205
 #, no-c-format
 msgid "Manual"
-msgstr ""
+msgstr "手册"
 
 #: src/Menu/ExpandMacros.cpp:227 src/Menu/ExpandMacros.cpp:359
 #: src/Menu/ExpandMacros.cpp:380 src/Menu/ExpandMacros.cpp:430
@@ -785,46 +791,46 @@ msgstr ""
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:34
 #, no-c-format
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 #: src/Menu/ExpandMacros.cpp:229
 #: src/Dialogs/Settings/Panels/MapDisplayConfigPanel.cpp:44
 #, no-c-format
 msgid "Track up"
-msgstr ""
+msgstr "追踪"
 
 #: src/Menu/ExpandMacros.cpp:229
 #: src/Dialogs/Settings/Panels/MapDisplayConfigPanel.cpp:48
 #, no-c-format
 msgid "North up"
-msgstr ""
+msgstr "北为上"
 
 #: src/Menu/ExpandMacros.cpp:313 src/Dialogs/Settings/dlgBasicSettings.cpp:141
 #: src/Dialogs/ReplayDialog.cpp:56
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: src/Menu/ExpandMacros.cpp:314 src/Dialogs/ReplayDialog.cpp:55
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 #: src/Menu/ExpandMacros.cpp:318
 #: src/Dialogs/Settings/Panels/SymbolsConfigPanel.cpp:91
 #, no-c-format
 msgid "Long"
-msgstr ""
+msgstr "长"
 
 #: src/Menu/ExpandMacros.cpp:321
 #: src/Dialogs/Settings/Panels/SymbolsConfigPanel.cpp:92
 #, no-c-format
 msgid "Short"
-msgstr ""
+msgstr "短"
 
 #: src/Menu/ExpandMacros.cpp:324
 #: src/Dialogs/Settings/Panels/SymbolsConfigPanel.cpp:93
 #, no-c-format
 msgid "Full"
-msgstr ""
+msgstr "完全"
 
 #: src/Menu/ExpandMacros.cpp:327 src/Menu/ExpandMacros.cpp:332
 #: src/Menu/ExpandMacros.cpp:357 src/Menu/ExpandMacros.cpp:362
@@ -845,7 +851,7 @@ msgstr ""
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:32
 #, no-c-format
 msgid "Off"
-msgstr ""
+msgstr "关"
 
 #: src/Menu/ExpandMacros.cpp:332 src/Menu/ExpandMacros.cpp:357
 #: src/Menu/ExpandMacros.cpp:362 src/Menu/ExpandMacros.cpp:364
@@ -861,35 +867,35 @@ msgstr ""
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:33
 #, no-c-format
 msgid "On"
-msgstr ""
+msgstr "开"
 
 #: src/Menu/ExpandMacros.cpp:343
 msgid "Topography On"
-msgstr ""
+msgstr "打开地貌图"
 
 #: src/Menu/ExpandMacros.cpp:346
 msgid "Terrain On"
-msgstr ""
+msgstr "打开地形图"
 
 #: src/Menu/ExpandMacros.cpp:349
 msgid "Terrain + Topography"
-msgstr ""
+msgstr "地形+地貌"
 
 #: src/Menu/ExpandMacros.cpp:352
 msgid "Terrain Off"
-msgstr ""
+msgstr "关闭地形图"
 
 #: src/Menu/ExpandMacros.cpp:369 src/Input/InputEventsSettings.cpp:313
 #: src/Dialogs/Settings/Panels/AirspaceConfigPanel.cpp:84
 #: src/Dialogs/Settings/Panels/WaypointDisplayConfigPanel.cpp:140
 #, no-c-format
 msgid "All"
-msgstr ""
+msgstr "所有"
 
 #: src/Menu/ExpandMacros.cpp:370 src/Input/InputEventsSettings.cpp:314
 #, no-c-format
 msgid "Task & Landables"
-msgstr ""
+msgstr "任务与可着陆"
 
 #: src/Menu/ExpandMacros.cpp:372 src/Input/InputEventsSettings.cpp:316
 #: src/Dialogs/Settings/WindSettingsPanel.cpp:201
@@ -903,17 +909,17 @@ msgstr ""
 #: src/Dialogs/Device/Vega/AudioModeParameters.hpp:33
 #, no-c-format
 msgid "None"
-msgstr ""
+msgstr "没有"
 
 #: src/Menu/ExpandMacros.cpp:373 src/Input/InputEventsSettings.cpp:317
 #, no-c-format
 msgid "Task & Airfields"
-msgstr ""
+msgstr "任务与机场"
 
 #: src/InfoBoxes/Content/Factory.cpp:135
 #, no-c-format
 msgid "Altitude GPS"
-msgstr ""
+msgstr "GPS高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:136
 #: src/InfoBoxes/Panel/AltitudeInfo.cpp:83
@@ -932,13 +938,13 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:143
 #, no-c-format
 msgid "Height AGL"
-msgstr ""
+msgstr "相对高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:144
 #: src/InfoBoxes/Panel/AltitudeInfo.cpp:85
 #, no-c-format
 msgid "H AGL"
-msgstr ""
+msgstr "相对高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:145
 #, no-c-format
@@ -951,12 +957,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:152
 #, no-c-format
 msgid "Thermal climb, last 30 s"
-msgstr ""
+msgstr "过去30秒热气流盘升"
 
 #: src/InfoBoxes/Content/Factory.cpp:153
 #, no-c-format
 msgid "TC 30s"
-msgstr ""
+msgstr "过去30秒热气流盘升"
 
 #: src/InfoBoxes/Content/Factory.cpp:154
 #, no-c-format
@@ -968,14 +974,14 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:160
 #, no-c-format
 msgid "Next bearing"
-msgstr ""
+msgstr "下一方位"
 
 #: src/InfoBoxes/Content/Factory.cpp:161
 #: src/Dialogs/Traffic/TeamCodeDialog.cpp:104
 #: src/Dialogs/StatusPanels/FlightStatusPanel.cpp:82
 #, no-c-format
 msgid "Bearing"
-msgstr ""
+msgstr "方位"
 
 #: src/InfoBoxes/Content/Factory.cpp:162
 #, no-c-format
@@ -987,12 +993,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:169
 #, no-c-format
 msgid "GR instantaneous"
-msgstr ""
+msgstr "即时滑翔比"
 
 #: src/InfoBoxes/Content/Factory.cpp:170
 #, no-c-format
 msgid "GR Inst"
-msgstr ""
+msgstr "即时滑翔比"
 
 #: src/InfoBoxes/Content/Factory.cpp:171
 #, no-c-format
@@ -1006,12 +1012,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:177
 #, no-c-format
 msgid "GR cruise"
-msgstr ""
+msgstr "巡航滑翔比"
 
 #: src/InfoBoxes/Content/Factory.cpp:178
 #, no-c-format
 msgid "GR Cruise"
-msgstr ""
+msgstr "巡航滑翔比"
 
 #: src/InfoBoxes/Content/Factory.cpp:179
 #, no-c-format
@@ -1025,12 +1031,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:185
 #, no-c-format
 msgid "Speed ground"
-msgstr ""
+msgstr "地速"
 
 #: src/InfoBoxes/Content/Factory.cpp:186
 #, no-c-format
 msgid "V GND"
-msgstr ""
+msgstr "地速"
 
 #: src/InfoBoxes/Content/Factory.cpp:187
 #, no-c-format
@@ -1043,12 +1049,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:193
 #, no-c-format
 msgid "Last thermal average"
-msgstr ""
+msgstr "上一热气流平均值"
 
 #: src/InfoBoxes/Content/Factory.cpp:194
 #, no-c-format
 msgid "TL Avg"
-msgstr ""
+msgstr "上一热气流平均值"
 
 #: src/InfoBoxes/Content/Factory.cpp:195
 #, no-c-format
@@ -1060,42 +1066,42 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:201
 #, no-c-format
 msgid "Last thermal gain"
-msgstr ""
+msgstr "上一热气流获取高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:202
 #, no-c-format
 msgid "TL Gain"
-msgstr ""
+msgstr "上一热气流获取高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:203
 #, no-c-format
 msgid "Total altitude gain/loss in the last thermal."
-msgstr ""
+msgstr "上一热气流获取/损失总高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:209
 #, no-c-format
 msgid "Last thermal duration"
-msgstr ""
+msgstr "上一热气流持续时间"
 
 #: src/InfoBoxes/Content/Factory.cpp:210
 #, no-c-format
 msgid "TL duration"
-msgstr ""
+msgstr "上一热气流持续时间"
 
 #: src/InfoBoxes/Content/Factory.cpp:211
 #, no-c-format
 msgid "Time spent circling in the last thermal."
-msgstr ""
+msgstr "上一热气流盘转耗时"
 
 #: src/InfoBoxes/Content/Factory.cpp:217
 #, no-c-format
 msgid "MacCready setting"
-msgstr ""
+msgstr "MacCready设置"
 
 #: src/InfoBoxes/Content/Factory.cpp:218
 #, no-c-format
 msgid "MC"
-msgstr ""
+msgstr "MC"
 
 #: src/InfoBoxes/Content/Factory.cpp:219
 #, no-c-format
@@ -1108,12 +1114,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:225
 #, no-c-format
 msgid "Next distance"
-msgstr ""
+msgstr "下一距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:226 src/InfoBoxes/Content/Task.cpp:182
 #, no-c-format
 msgid "WP Dist"
-msgstr ""
+msgstr "航点距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:227
 #, no-c-format
@@ -1125,12 +1131,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:234
 #, no-c-format
 msgid "Next altitude difference"
-msgstr ""
+msgstr "下一高度差"
 
 #: src/InfoBoxes/Content/Factory.cpp:235
 #, no-c-format
 msgid "WP AltD"
-msgstr ""
+msgstr "航点高度差"
 
 #: src/InfoBoxes/Content/Factory.cpp:236
 #, no-c-format
@@ -1142,12 +1148,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:243
 #, no-c-format
 msgid "Next altitude required"
-msgstr ""
+msgstr "下一所需高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:244
 #, no-c-format
 msgid "WP AltR"
-msgstr ""
+msgstr "航点所需高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:245
 #, no-c-format
@@ -1159,12 +1165,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:252
 #, no-c-format
 msgid "Next waypoint"
-msgstr ""
+msgstr "下一航点"
 
 #: src/InfoBoxes/Content/Factory.cpp:253
 #, no-c-format
 msgid "Next WP"
-msgstr ""
+msgstr "下一航点"
 
 #: src/InfoBoxes/Content/Factory.cpp:254
 #, no-c-format
@@ -1178,12 +1184,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:260
 #, no-c-format
 msgid "Final altitude difference"
-msgstr ""
+msgstr "最终高度差"
 
 #: src/InfoBoxes/Content/Factory.cpp:261
 #, no-c-format
 msgid "Fin AltD"
-msgstr ""
+msgstr "最终高度差"
 
 #: src/InfoBoxes/Content/Factory.cpp:262
 #, no-c-format
@@ -1195,27 +1201,27 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:268
 #, no-c-format
 msgid "Final altitude required"
-msgstr ""
+msgstr "最终需要高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:269
 #, no-c-format
 msgid "Fin AltR"
-msgstr ""
+msgstr "最终需要高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:270
 #, no-c-format
 msgid "Additional altitude required to finish the task."
-msgstr ""
+msgstr "完成任务所需附加高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:276
 #, no-c-format
 msgid "Speed task average"
-msgstr ""
+msgstr "任务平均速度"
 
 #: src/InfoBoxes/Content/Factory.cpp:277
 #, no-c-format
 msgid "V Task Avg"
-msgstr ""
+msgstr "任务平均速度"
 
 #: src/InfoBoxes/Content/Factory.cpp:278
 #, no-c-format
@@ -1227,27 +1233,27 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:284
 #, no-c-format
 msgid "Final distance"
-msgstr ""
+msgstr "最终距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:285
 #, no-c-format
 msgid "Fin Dist"
-msgstr ""
+msgstr "最终距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:286
 #, no-c-format
 msgid "Distance to finish around remaining turn points."
-msgstr ""
+msgstr "完成剩余转弯点的距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:300
 #, no-c-format
 msgid "Terrain elevation"
-msgstr ""
+msgstr "地形高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:301
 #, no-c-format
 msgid "Terr Elev"
-msgstr ""
+msgstr "地形高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:302
 #, no-c-format
@@ -1259,12 +1265,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:308
 #, no-c-format
 msgid "Thermal average"
-msgstr ""
+msgstr "热气流平均值"
 
 #: src/InfoBoxes/Content/Factory.cpp:309
 #, no-c-format
 msgid "TC Avg"
-msgstr ""
+msgstr "热气流平均值"
 
 #: src/InfoBoxes/Content/Factory.cpp:310
 #, no-c-format
@@ -1276,23 +1282,23 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:316
 #, no-c-format
 msgid "Thermal gain"
-msgstr ""
+msgstr "热气流获取高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:317
 #, no-c-format
 msgid "TC Gain"
-msgstr ""
+msgstr "热气流获取高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:318
 #, no-c-format
 msgid "The altitude gained/lost in the current thermal."
-msgstr ""
+msgstr "当前热气流获取/损失高度"
 
 #: src/InfoBoxes/Content/Factory.cpp:324 src/InfoBoxes/Content/Factory.cpp:325
 #: src/Dialogs/Settings/Panels/MapDisplayConfigPanel.cpp:59
 #, no-c-format
 msgid "Track"
-msgstr ""
+msgstr "轨迹"
 
 #: src/InfoBoxes/Content/Factory.cpp:326
 #, no-c-format
@@ -1312,12 +1318,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:340
 #, no-c-format
 msgid "Wind speed"
-msgstr ""
+msgstr "风速"
 
 #: src/InfoBoxes/Content/Factory.cpp:341
 #, no-c-format
 msgid "Wind V"
-msgstr ""
+msgstr "风速"
 
 #: src/InfoBoxes/Content/Factory.cpp:342 src/InfoBoxes/Content/Factory.cpp:939
 #, no-c-format
@@ -1330,12 +1336,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:349
 #, no-c-format
 msgid "Wind bearing"
-msgstr ""
+msgstr "风向"
 
 #: src/InfoBoxes/Content/Factory.cpp:350
 #, no-c-format
 msgid "Wind Brng"
-msgstr ""
+msgstr "风向"
 
 #: src/InfoBoxes/Content/Factory.cpp:351
 #, no-c-format
@@ -1348,58 +1354,58 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:358
 #, no-c-format
 msgid "AAT time"
-msgstr ""
+msgstr "指定任务区域时间"
 
 #: src/InfoBoxes/Content/Factory.cpp:359
 #, no-c-format
 msgid "AAT Time"
-msgstr ""
+msgstr "指定任务区域时间"
 
 #: src/InfoBoxes/Content/Factory.cpp:360
 #, no-c-format
 msgid ""
 "Assigned Area Task time remaining. Goes red when time remaining has expired."
-msgstr ""
+msgstr "指定任务区域剩余时间。当剩余的时间过期时变红。"
 
 #: src/InfoBoxes/Content/Factory.cpp:366
 #, no-c-format
 msgid "AAT max. distance "
-msgstr ""
+msgstr "指定任务区域时间最大距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:367
 #, no-c-format
 msgid "AAT Dmax"
-msgstr ""
+msgstr "指定任务区域时间最大距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:368
 #, no-c-format
 msgid "Assigned Area Task maximum distance possible for remainder of task."
-msgstr ""
+msgstr "指定任务区域剩余任务最大可能距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:374
 #, no-c-format
 msgid "AAT min. distance"
-msgstr ""
+msgstr "指定任务区域时间最小距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:375
 #, no-c-format
 msgid "AAT Dmin"
-msgstr ""
+msgstr "指定任务区域时间最小距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:376
 #, no-c-format
 msgid "Assigned Area Task minimum distance possible for remainder of task."
-msgstr ""
+msgstr "指定任务区域剩余任务最小可能距离"
 
 #: src/InfoBoxes/Content/Factory.cpp:382
 #, no-c-format
 msgid "AAT speed max. distance"
-msgstr ""
+msgstr "指定任务区域时间最大距离速度"
 
 #: src/InfoBoxes/Content/Factory.cpp:383
 #, no-c-format
 msgid "AAT Vmax"
-msgstr ""
+msgstr "指定任务区域时间最大距离速度"
 
 #: src/InfoBoxes/Content/Factory.cpp:384
 #, no-c-format
@@ -1411,12 +1417,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:390
 #, no-c-format
 msgid "AAT speed min. distance"
-msgstr ""
+msgstr "指定任务区域时间最小距离速度"
 
 #: src/InfoBoxes/Content/Factory.cpp:391
 #, no-c-format
 msgid "AAT Vmin"
-msgstr ""
+msgstr "指定任务区域时间最小距离速度"
 
 #: src/InfoBoxes/Content/Factory.cpp:392
 #, no-c-format
@@ -1428,12 +1434,12 @@ msgstr ""
 #: src/InfoBoxes/Content/Factory.cpp:398
 #, no-c-format
 msgid "Airspeed IAS"
-msgstr ""
+msgstr "空速IAS"
 
 #: src/InfoBoxes/Content/Factory.cpp:399
 #, no-c-format
 msgid "V IAS"
-msgstr ""
+msgstr "空速IAS"
 
 #: src/InfoBoxes/Content/Factory.cpp:400
 #, no-c-format
