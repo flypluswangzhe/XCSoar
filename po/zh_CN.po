@@ -60,7 +60,7 @@ msgstr "比赛"
 #: src/Task/TypeStrings.cpp:36
 #, no-c-format
 msgid "AAT"
-msgstr ""
+msgstr "AAT"
 
 #: src/Task/TypeStrings.cpp:37
 #, no-c-format
@@ -83,16 +83,18 @@ msgid ""
 "FAI rules, allows only FAI start, finish and turn point types, for badges "
 "and records.  Enables FAI finish height for final glide calculation."
 msgstr ""
+"FAI规则，只允许FAI的开始、结束和转弯类型作为标志 "
+"和记录。FAI完成最终滑翔高度计算。"
 
 #: src/Task/TypeStrings.cpp:54
 #, no-c-format
 msgid "FAI rules, path from a start to two turn points and return."
-msgstr ""
+msgstr "FAI规则，路径从一开始到两个转折点并返回。"
 
 #: src/Task/TypeStrings.cpp:55
 #, no-c-format
 msgid "FAI rules, path from start to a single turn point and return."
-msgstr ""
+msgstr "FAI规则，路径从开始到一个转折点和返回。"
 
 #: src/Task/TypeStrings.cpp:56
 #, no-c-format
@@ -105,6 +107,8 @@ msgid ""
 "Racing task around turn points.  Can also be used for FAI badge and record "
 "tasks.  Allows all shapes of observation zones."
 msgstr ""
+"竞速任务围绕转折点。也可用于FAI标志和记录"
+"任务。允许所有形状的观察区域"
 
 #: src/Task/TypeStrings.cpp:59
 #, no-c-format
@@ -8895,24 +8899,24 @@ msgstr "哔哔声类型"
 
 #: src/Dialogs/Device/Vega/AudioParameters.hpp:108
 msgid "Pitch scheme"
-msgstr ""
+msgstr "俯仰方案"
 
 #: src/Dialogs/Device/Vega/AudioParameters.hpp:111
 msgid "Pitch scale"
-msgstr ""
+msgstr "俯仰尺度"
 
 #: src/Dialogs/Device/Vega/AudioParameters.hpp:114
 msgid "Period scheme"
-msgstr ""
+msgstr "周期方案"
 
 #: src/Dialogs/Device/Vega/AudioParameters.hpp:117
 msgid "Period scale"
-msgstr ""
+msgstr "周期尺度"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:33
 #, no-c-format
 msgid "TE mixing"
-msgstr ""
+msgstr "混合总能量"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:34
 #, no-c-format
@@ -8920,22 +8924,24 @@ msgid ""
 "Proportion of TE probe value used in total energy mixing with pitot/static "
 "total energy."
 msgstr ""
+"总能量探测值与Pito/静态混合总能量的比例。"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:38
 #, no-c-format
 msgid "ASI cal."
-msgstr ""
+msgstr "ASI计算"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:39
 #, no-c-format
 msgid ""
 "Calibration factor applied to measured airspeed to obtain indicated airspeed."
 msgstr ""
+"校准因子应用于测量空速以获得指示空速。"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:43
 #, no-c-format
 msgid "TE static cal."
-msgstr ""
+msgstr "总能量静态计算"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:44
 #, no-c-format
@@ -8943,11 +8949,12 @@ msgid ""
 "Calibration factor applied to static pressure used in total energy "
 "calculation."
 msgstr ""
+"适用于总能量静态压力的校准因子计算。"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:48
 #, no-c-format
 msgid "TE dynamic cal."
-msgstr ""
+msgstr "总能量动态计算"
 
 #: src/Dialogs/Device/Vega/CalibrationParameters.hpp:49
 #, no-c-format
@@ -8955,31 +8962,32 @@ msgid ""
 "Calibration factor applied to dynamic pressure used in total energy "
 "calculation."
 msgstr ""
+"适用于总能量动态压力的校准因子计算。"
 
 #: src/Dialogs/Device/Vega/DisplayParameters.hpp:40
 #, no-c-format
 msgid "Needle gauge type"
-msgstr ""
+msgstr "针规类型"
 
 #: src/Dialogs/Device/Vega/DisplayParameters.hpp:42
 #, no-c-format
 msgid "LED bright"
-msgstr ""
+msgstr "LED亮度"
 
 #: src/Dialogs/Device/Vega/FlarmAlertParameters.hpp:42
 #, no-c-format
 msgid "Max. objects reported"
-msgstr ""
+msgstr "最大报告对象"
 
 #: src/Dialogs/Device/Vega/FlarmAlertParameters.hpp:44
 #, no-c-format
 msgid "Max. reported"
-msgstr ""
+msgstr "最大报告"
 
 #: src/Dialogs/Device/Vega/FlarmAlertParameters.hpp:46
 #, no-c-format
 msgid "Flarm interface"
-msgstr ""
+msgstr "Flarm接口"
 
 #: src/Dialogs/Device/Vega/FlarmAlertParameters.hpp:48
 #, no-c-format
@@ -8989,7 +8997,7 @@ msgstr "关闭盘转"
 #: src/Dialogs/Device/Vega/FlarmAlertParameters.hpp:50
 #, no-c-format
 msgid "No mode reports"
-msgstr ""
+msgstr "无报告模式"
 
 #: src/Dialogs/Device/Vega/FlarmAlertParameters.hpp:52
 #, no-c-format
@@ -9009,37 +9017,37 @@ msgstr "飞行器类型"
 #: src/Dialogs/Device/Vega/FlarmRepeatParameters.hpp:33
 #, no-c-format
 msgid "Interval; info"
-msgstr ""
+msgstr "信息间隔"
 
 #: src/Dialogs/Device/Vega/FlarmRepeatParameters.hpp:36
 #, no-c-format
 msgid "Interval; caution"
-msgstr ""
+msgstr "告警间隔"
 
 #: src/Dialogs/Device/Vega/FlarmRepeatParameters.hpp:39
 #, no-c-format
 msgid "Interval; warning"
-msgstr ""
+msgstr "警告间隔"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:52
 #, no-c-format
 msgid "TE port"
-msgstr ""
+msgstr "TE端口"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:52
 #, no-c-format
 msgid "Whether the Total Energy port is connected."
-msgstr ""
+msgstr "总能量端口是否连接。"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:55
 #, no-c-format
 msgid "Pitot port"
-msgstr ""
+msgstr "Pitot端口"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:55
 #, no-c-format
 msgid "Whether the Pitot port is connected."
-msgstr ""
+msgstr "Pitot端口是否连接"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:58
 #, no-c-format
@@ -9049,7 +9057,7 @@ msgstr "静态端口"
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:58
 #, no-c-format
 msgid "Whether the Static port is connected."
-msgstr ""
+msgstr "静态端口是否连接"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:61
 #, no-c-format
@@ -9059,7 +9067,7 @@ msgstr "失速端口"
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:61
 #, no-c-format
 msgid "Whether the Stall pressure port is connected."
-msgstr ""
+msgstr "失速压力端口是否连接。"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:64
 #, no-c-format
@@ -9073,6 +9081,8 @@ msgid ""
 "accelerometer has malfunctioned or the instrument cannot be installed with "
 "correct alignment."
 msgstr ""
+"是否使用内部加速度计。"
+"仅在加速度计发生故障或仪器无法安装时更改。"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:69
 #, no-c-format
@@ -9081,11 +9091,13 @@ msgid ""
 "disable, 255 to enable auto-detect; otherwise the 1Wire device ID can be "
 "specified."
 msgstr ""
+"是否安装了温湿度传感器。设置为0禁用，255启用自动检测；”
+"否则，1线设备ID可以指定。"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:73
 #, no-c-format
 msgid "Baud rate Vega"
-msgstr ""
+msgstr "Vega波特率"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:74
 #, no-c-format
@@ -9095,6 +9107,9 @@ msgid ""
 "connected the baud rate will be fixed at 38400.  For OzFLARM, the value can "
 "be set to 19200."
 msgstr ""
+"连接到Vega端口X1的串行设备波特率。"
+"当需要使用第三方GPS或数据记录器代替FLAM时使用。  If FLARM is "
+"如果FLARM是连接，波特率将固定在38400。对OzFLARM来说值可以定为19200。"
 
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:78
 #, no-c-format
@@ -9107,7 +9122,9 @@ msgid ""
 "Enable detection of FLARM.  Disable only if FLARM is not used or "
 "disconnected."
 msgstr ""
+"启用对FLAM的检测。仅在不使用FLARM或无连接时禁用。"
 
+断开的。
 #: src/Dialogs/Device/Vega/HardwareParameters.hpp:82
 #, no-c-format
 msgid "PDA power"
@@ -9119,16 +9136,17 @@ msgid ""
 "Enable output of +5V power supply for PDA etc. at Vega connector~X2.  If "
 "Vega is connected to Altair, this should be set to False."
 msgstr ""
+"在Vega连接器~X2上可为PDA等提供+5V电源输出。如果Vega连接到Altair，应该设置False。"
 
 #: src/Dialogs/Device/Vega/LimitParameters.hpp:32
 #, no-c-format
 msgid "VNE"
-msgstr ""
+msgstr "VNE"
 
 #: src/Dialogs/Device/Vega/LimitParameters.hpp:34
 #, no-c-format
 msgid "V terrain"
-msgstr ""
+msgstr "地形速度"
 
 #: src/Dialogs/Device/Vega/LimitParameters.hpp:36
 #, no-c-format
@@ -9138,17 +9156,17 @@ msgstr "地形高度"
 #: src/Dialogs/Device/Vega/LimitParameters.hpp:38
 #, no-c-format
 msgid "V manoeuvering"
-msgstr ""
+msgstr "机动速度"
 
 #: src/Dialogs/Device/Vega/LimitParameters.hpp:40
 #, no-c-format
 msgid "V airbrake"
-msgstr ""
+msgstr "空气制动器速度"
 
 #: src/Dialogs/Device/Vega/LimitParameters.hpp:42
 #, no-c-format
 msgid "V flap"
-msgstr ""
+msgstr "雀降速度"
 
 #: src/Dialogs/Device/Vega/LoggerParameters.hpp:37
 #, no-c-format
@@ -9158,12 +9176,12 @@ msgstr "IGC记录中"
 #: src/Dialogs/Device/Vega/MixerParameters.hpp:32
 #, no-c-format
 msgid "Mute vario on voice"
-msgstr ""
+msgstr "高度表静音"
 
 #: src/Dialogs/Device/Vega/MixerParameters.hpp:33
 #, no-c-format
 msgid "Mute vario on radio"
-msgstr ""
+msgstr "高度表在对讲机静音"
 
 #: src/Dialogs/Device/Vega/MixerParameters.hpp:34
 #, no-c-format
@@ -9178,17 +9196,17 @@ msgstr "静音"
 #: src/Dialogs/Device/Vega/MixerParameters.hpp:38
 #, no-c-format
 msgid "Speaker threshold"
-msgstr ""
+msgstr "喇叭阈值"
 
 #: src/Dialogs/Device/Vega/MixerParameters.hpp:40
 #, no-c-format
 msgid "Headset threshold"
-msgstr ""
+msgstr "听筒阈值"
 
 #: src/Dialogs/Device/Vega/MixerParameters.hpp:42
 #, no-c-format
 msgid "Urgent min. volume"
-msgstr ""
+msgstr "紧急最小容量"
 
 #: Data/Input/default.xci:833 Data/Input/default.xci:1206
 msgid "Thermal Assistant"
@@ -9201,7 +9219,7 @@ msgstr "缩放"
 
 #: Data/Input/default.xci:711
 msgid "Vario ASI zeroed"
-msgstr ""
+msgstr "高度表ASI归零"
 
 #: Data/Input/default.xci:1174
 msgid ""
@@ -9237,24 +9255,28 @@ msgid ""
 "Manual\n"
 "Demo"
 msgstr ""
+"手册\n"
+"演示"
 
 #: Data/Input/default.xci:142 Data/Input/default.xci:775
 msgid ""
 "What's\n"
 "here?"
 msgstr ""
+"这是\n"
+"哪里?"
 
 #: Data/Input/default.xci:825
 msgid "Traffic List"
-msgstr ""
+msgstr "交通列表"
 
 #: Data/Input/default.xci:514 Data/Input/default.xci:1079
 msgid "Topo."
-msgstr ""
+msgstr "地貌."
 
 #: Data/Input/default.xci:64
 msgid "Below final glide"
-msgstr ""
+msgstr "低于最终滑翔"
 
 #: Data/Input/default.xci:350 Data/Input/default.xci:399
 #: Data/Input/default.xci:878
@@ -9266,6 +9288,8 @@ msgid ""
 "Cruise\n"
 "Demo"
 msgstr ""
+"巡航\n"
+"演示"
 
 #: Data/Input/default.xci:686
 msgid ""
@@ -9280,6 +9304,8 @@ msgid ""
 "Accel\n"
 "Zero"
 msgstr ""
+"加速度\n"
+"零"
 
 #: Data/Input/default.xci:1096
 msgid ""
@@ -9294,10 +9320,12 @@ msgid ""
 "Pan\n"
 "On"
 msgstr ""
+"显示面板\n"
+"打开"
 
 #: Data/Input/default.xci:759 Data/Input/default.xci:1158
 msgid "FLARM Radar"
-msgstr ""
+msgstr "FLARM雷达"
 
 #: Data/Input/default.xci:1120
 msgid ""
@@ -9312,30 +9340,36 @@ msgid ""
 "Mark\n"
 "Drop"
 msgstr ""
+"标记\n"
+"下降"
 
 #: Data/Input/default.xci:718
 msgid "Accelerometer leveled"
-msgstr ""
+msgstr "加速计已调整"
 
 #: Data/Input/default.xci:500 Data/Input/default.xci:1065
 msgid "Trail"
-msgstr ""
+msgstr "轨迹"
 
 #: Data/Input/default.xci:59
 msgid "Above final glide"
-msgstr ""
+msgstr "高过最后滑翔"
 
 #: Data/Input/default.xci:712
 msgid ""
 "ASI\n"
 "Zero"
 msgstr ""
+"ASI\n"
+"零"
 
 #: Data/Input/default.xci:672
 msgid ""
 "Airframe\n"
 "Switches"
 msgstr ""
+"机体\n"
+"开关"
 
 #: Data/Input/default.xci:1104
 msgid ""
@@ -9352,12 +9386,16 @@ msgid ""
 "Team\n"
 "Code"
 msgstr ""
+"团队\n"
+"代码"
 
 #: Data/Input/default.xci:121
 msgid ""
 "Pan\n"
 "Off"
 msgstr ""
+"显示面板\n"
+"关闭"
 
 #: Data/Input/default.xci:128 Data/Input/default.xci:444
 #: Data/Input/default.xci:929
@@ -9382,7 +9420,7 @@ msgstr "标签"
 
 #: Data/Input/default.xci:414 Data/Input/default.xci:1039
 msgid "Dropped marker"
-msgstr ""
+msgstr "下降标记"
 
 #: Data/Input/default.xci:135 Data/Input/default.xci:451
 #: Data/Input/default.xci:936
@@ -9395,7 +9433,7 @@ msgstr ""
 
 #: Data/Input/default.xci:1151
 msgid "Setup Plane"
-msgstr ""
+msgstr "设置平面"
 
 #: Data/Input/default.xci:693
 msgid "Accel"
@@ -9403,11 +9441,11 @@ msgstr "加速"
 
 #: Data/Input/default.xci:646
 msgid "Lua"
-msgstr ""
+msgstr "Lua"
 
 #: Data/Input/default.xci:957
 msgid "AVG/ALT"
-msgstr ""
+msgstr "平均/高度"
 
 #: Data/Input/default.xci:69
 msgid "Final glide through terrain"
