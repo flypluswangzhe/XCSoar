@@ -4246,6 +4246,8 @@ msgid ""
 "in circling mode to demonstrate the lift tones.  When not in circling mode, "
 "set this to a realistic negative value so speed command tones are produced."
 msgstr ""
+"这产生了一个假的高度表总能量的总垂直速度。它可以用于在循环模式中演示提升音调。"
+"当不处于循环模式时，把这个设定成一个真实的负值，这样就产生了速度指令音调。"
 
 #: src/Dialogs/Device/Vega/VegaDemoDialog.cpp:107
 msgid ""
@@ -4999,88 +5001,88 @@ msgstr ""
 
 #: src/Dialogs/Traffic/TeamCodeDialog.cpp:215
 msgid "Not Found"
-msgstr ""
+msgstr "没有发现"
 
 #: src/Dialogs/Traffic/TeamCodeDialog.cpp:219
 msgid "Set new teammate"
-msgstr ""
+msgstr "设置新队友"
 
 #: src/Dialogs/dlgAnalysis.cpp:475
 msgid "Barograph"
-msgstr ""
+msgstr "气压记录器"
 
 #: src/Dialogs/dlgAnalysis.cpp:484
 msgid "Climb"
-msgstr ""
+msgstr "爬升"
 
 #: src/Dialogs/dlgAnalysis.cpp:488 src/Dialogs/dlgAnalysis.cpp:551
 msgid "Task Calc"
-msgstr ""
+msgstr "任务计算"
 
 #: src/Dialogs/dlgAnalysis.cpp:493
 msgid "Thermal Band"
-msgstr ""
+msgstr "热气流波段"
 
 #: src/Dialogs/dlgAnalysis.cpp:502
 msgid "Vario Histogram"
-msgstr ""
+msgstr "高度直方图"
 
 #: src/Dialogs/dlgAnalysis.cpp:510
 msgid "Wind at Altitude"
-msgstr ""
+msgstr "该高度风况"
 
 #: src/Dialogs/dlgAnalysis.cpp:513
 msgid "Set Wind"
-msgstr ""
+msgstr "设置风况"
 
 #: src/Dialogs/dlgAnalysis.cpp:518
 msgid "Glide Polar"
-msgstr ""
+msgstr "滑翔极曲线"
 
 #: src/Dialogs/dlgAnalysis.cpp:528
 msgid "MacCready Speeds"
-msgstr ""
+msgstr "MacCready速度"
 
 #: src/Dialogs/dlgAnalysis.cpp:537
 msgid "Temperature Trace"
-msgstr ""
+msgstr "温度轨迹"
 
 #: src/Dialogs/dlgAnalysis.cpp:546
 msgid "Task Speed"
-msgstr ""
+msgstr "任务速度"
 
 #: src/Dialogs/dlgAnalysis.cpp:560
 msgid "Task calc"
-msgstr ""
+msgstr "任务计算"
 
 #: src/Dialogs/dlgAnalysis.cpp:578
 #: src/Dialogs/Settings/Panels/AirspaceConfigPanel.cpp:208
 msgid "Warnings"
-msgstr ""
+msgstr "警告"
 
 #: src/Dialogs/dlgChecklist.cpp:49 src/Dialogs/dlgChecklist.cpp:147
 msgid "Checklist"
-msgstr ""
+msgstr "检查表"
 
 #: src/Dialogs/dlgChecklist.cpp:134
 msgid "No checklist loaded"
-msgstr ""
+msgstr "未装载检查表"
 
 #: src/Dialogs/dlgChecklist.cpp:134
 msgid "Create xcsoar-checklist.txt"
-msgstr ""
+msgstr "创建xcsoar-checklist.txt"
 
 #: src/Dialogs/ProfileListDialog.cpp:188
 #: src/Dialogs/Plane/PlaneListDialog.cpp:157
 #: src/Dialogs/Waypoint/Manager.cpp:121
 msgid "New"
-msgstr ""
+msgstr "新"
 
 #: src/Dialogs/ProfileListDialog.cpp:189 src/Dialogs/ProfileListDialog.cpp:337
 #: src/Dialogs/StartupDialog.cpp:176 src/Dialogs/ProfilePasswordDialog.cpp:88
 #: src/Dialogs/Settings/Panels/TrackingConfigPanel.cpp:244
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: src/Dialogs/ProfileListDialog.cpp:191 src/Dialogs/ProfileListDialog.cpp:309
 #: src/Dialogs/Plane/PlaneListDialog.cpp:159
@@ -5089,270 +5091,274 @@ msgstr ""
 #: src/Dialogs/Settings/Panels/PagesConfigPanel.cpp:118
 #: src/Dialogs/Task/Manager/TaskListPanel.cpp:102
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: src/Dialogs/ProfileListDialog.cpp:206 src/Dialogs/ProfileListDialog.cpp:273
 msgid "Profile name"
-msgstr ""
+msgstr "简况名称"
 
 #: src/Dialogs/ProfileListDialog.cpp:215 src/Dialogs/ProfileListDialog.cpp:283
 msgid "File exists already."
-msgstr ""
+msgstr "文件已经存在"
 
 #: src/Dialogs/ProfileListDialog.cpp:307
 #, c-format
 msgid "Delete \"%s\"?"
-msgstr ""
+msgstr "删除 \"%s\"?"
 
 #: src/Dialogs/ProfileListDialog.cpp:372 Data/Input/default.xci:589
 msgid "Profiles"
-msgstr ""
+msgstr "简况"
 
 #: src/Dialogs/ProfileListDialog.cpp:386
 msgid "Select profile"
-msgstr ""
+msgstr "选择简况"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:160
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:186
 msgid "Active"
-msgstr ""
+msgstr "活跃的"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:226
 #, c-format
 msgid "Activating plane \"%s\" failed."
-msgstr ""
+msgstr "激活飞行 \"%s\" 失败."
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:248
 #: src/Dialogs/Plane/PlaneListDialog.cpp:293
 msgid "Please enter the registration of the plane!"
-msgstr ""
+msgstr "请输入注册的飞机！"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:260
 #: src/Dialogs/Plane/PlaneListDialog.cpp:307
 #, c-format
 msgid "Plane \"%s\" already exists. Overwrite it?"
-msgstr ""
+msgstr "飞机 \"%s\" 已存在。重写它？"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:263
 #: src/Dialogs/Plane/PlaneListDialog.cpp:310
 msgid "Overwrite"
-msgstr ""
+msgstr "重写"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:355
 #, c-format
 msgid "Delete plane \"%s\"?"
-msgstr ""
+msgstr "删除飞机 \"%s\"?"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:392
 #, c-format
 msgid "Activate plane \"%s\"?"
-msgstr ""
+msgstr "激活飞机 \"%s\"?"
 
 #: src/Dialogs/Plane/PlaneListDialog.cpp:404
 msgid "Planes"
-msgstr ""
+msgstr "飞机
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:83
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:192
 msgid "Plane Details"
-msgstr ""
+msgstr "飞机详细资料"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:90
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:113
 msgid "Polar"
-msgstr ""
+msgstr "极曲线"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:111
 msgid "Registration"
-msgstr ""
+msgstr "注册"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:112
 msgid "Comp. ID"
-msgstr ""
+msgstr "竞赛ID"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:115
 msgid "Handicap"
-msgstr ""
+msgstr "让步赛"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:119
 msgid "Wing Area"
-msgstr ""
+msgstr "翼面积"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:123
 msgid "Max. Ballast"
-msgstr ""
+msgstr "最大配重"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:127
 msgid "Dump Time"
-msgstr ""
+msgstr "转储时间"
 
 #: src/Dialogs/Plane/PlaneDetailsDialog.cpp:131
 msgid "Max. Cruise Speed"
-msgstr ""
+msgstr "最大巡航速度"
 
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:68
 msgid "List"
-msgstr ""
+msgstr "列表"
 
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:69
 #: src/Dialogs/Waypoint/Manager.cpp:122
 msgid "Import"
-msgstr ""
+msgstr "导入"
 
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:141
 msgid "Reference Mass"
-msgstr ""
+msgstr "参考重量"
 
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:141
 msgid "Reference mass of the polar"
-msgstr ""
+msgstr "极曲线参考重量"
 
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:146
 msgid "Dry Mass"
-msgstr ""
+msgstr "净重"
 
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:146
 msgid "Dry all-up flying mass of your plane"
-msgstr ""
+msgstr "你所有飞行重量"
 
 #. let the user select
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:188
 msgid "Load Polar"
-msgstr ""
+msgstr "加载极曲线"
 
 #. let the user select
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:220
 msgid "Load Polar From File"
-msgstr ""
+msgstr "从文件加载极曲线"
 
 #: src/Dialogs/Plane/PlanePolarDialog.cpp:273
 msgid "Plane Polar"
-msgstr ""
+msgstr "飞机极曲线"
 
 #: src/Dialogs/Plane/PolarShapeEditWidget.cpp:125
 msgid "Polar V"
-msgstr ""
+msgstr "极曲线速度"
 
 #: src/Dialogs/Plane/PolarShapeEditWidget.cpp:126
 msgid "Polar W"
-msgstr ""
+msgstr "极曲线W"
 
 #: src/Dialogs/dlgInfoBoxAccess.cpp:94 src/Dialogs/dlgInfoBoxAccess.cpp:108
 msgid "Switch InfoBox"
-msgstr ""
+msgstr "开关信息盒"
 
 #: src/Dialogs/ReplayDialog.cpp:82
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 #: src/Dialogs/ReplayDialog.cpp:83
 msgid ""
 "Name of file to replay.  Can be an IGC file (.igc), a raw NMEA log file (."
 "nmea), or if blank, runs the demo."
 msgstr ""
+"要重放的文件名。可以是一个IGC文件（.IGC），一个原始NMEA日志文件（.NMEA）”
+"或者如果空白，运行演示。"
 
 #: src/Dialogs/ReplayDialog.cpp:90
 msgid "Rate"
-msgstr ""
+msgstr "率"
 
 #: src/Dialogs/ReplayDialog.cpp:91
 msgid ""
 "Time acceleration of replay. Set to 0 for pause, 1 for normal real-time "
 "replay."
 msgstr ""
+"重放的时间加速。设置为0暂停，1为正常实时"
+"重放。"
 
 #: src/Dialogs/ReplayDialog.cpp:111 src/Dialogs/ReplayDialog.cpp:153
 #: Data/Input/default.xci:613
 msgid "Replay"
-msgstr ""
+msgstr "重播"
 
 #: src/Dialogs/SimulatorPromptWindow.cpp:60 src/Dialogs/StartupDialog.cpp:93
 #: Data/Input/default.xci:914
 msgid "Quit"
-msgstr ""
+msgstr "退出"
 
 #: src/Dialogs/SimulatorPromptWindow.cpp:113
 msgid "What do you want to do?"
-msgstr ""
+msgstr "您想做什么？"
 
 #: src/Dialogs/StartupDialog.cpp:163
 msgid "Profile"
-msgstr ""
+msgstr "简况"
 
 #: src/Dialogs/StartupDialog.cpp:166
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 #: src/Dialogs/ProfilePasswordDialog.cpp:63
 msgid "Enter your password"
-msgstr ""
+msgstr "输入您的密码"
 
 #: src/Dialogs/ProfilePasswordDialog.cpp:88
 msgid "Wrong password."
-msgstr ""
+msgstr "密码错误"
 
 #: src/Dialogs/ProfilePasswordDialog.cpp:103
 msgid "Enter a new password"
-msgstr ""
+msgstr "输入新密码"
 
 #: src/Dialogs/dlgStatus.cpp:47 src/Dialogs/dlgStatus.cpp:66
 #: src/Dialogs/Weather/WeatherDialog.cpp:62 Data/Input/default.xci:809
 #: Data/Input/default.xci:1198
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: src/Dialogs/dlgStatus.cpp:89 Data/Input/default.xci:563
 msgid "Flight"
-msgstr ""
+msgstr "飞行"
 
 #: src/Dialogs/dlgStatus.cpp:92 Data/Input/default.xci:539
 msgid "System"
-msgstr ""
+msgstr "系统"
 
 #: src/Dialogs/dlgStatus.cpp:98
 #: src/Dialogs/Task/Manager/TaskManagerDialog.cpp:142
 msgid "Rules"
-msgstr ""
+msgstr "规则"
 
 #: src/Dialogs/dlgStatus.cpp:101
 msgid "Times"
-msgstr ""
+msgstr "时间"
 
 #: src/Dialogs/StatusPanels/FlightStatusPanel.cpp:80
 msgid "Max. height gain"
-msgstr ""
+msgstr "最大获取高度"
 
 #: src/Dialogs/StatusPanels/FlightStatusPanel.cpp:81
 msgid "Near"
-msgstr ""
+msgstr "靠近"
 
 #: src/Dialogs/StatusPanels/SystemStatusPanel.cpp:60
 #, no-c-format
 msgid "Roaming"
-msgstr ""
+msgstr "漫游"
 
 #: src/Dialogs/StatusPanels/SystemStatusPanel.cpp:130
 msgid "GPS lock"
-msgstr ""
+msgstr "GPS锁定"
 
 #: src/Dialogs/StatusPanels/SystemStatusPanel.cpp:131
 msgid "Satellites in view"
-msgstr ""
+msgstr "视图中的卫星数"
 
 #: src/Dialogs/StatusPanels/SystemStatusPanel.cpp:132
 msgid "Variometer"
-msgstr ""
+msgstr "高度计"
 
 #: src/Dialogs/StatusPanels/SystemStatusPanel.cpp:135
 msgid "Supply voltage"
-msgstr ""
+msgstr "支持电压"
 
 #: src/Dialogs/StatusPanels/SystemStatusPanel.cpp:136
 msgid "Network"
-msgstr ""
+msgstr "网络"
 
 #: src/Dialogs/StatusPanels/TaskStatusPanel.cpp:140
 msgid "Assigned task time"
